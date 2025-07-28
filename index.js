@@ -18,4 +18,4 @@ function describeTemperature(fahrenheit) {
     console.log(`${celsius} celsius is very hot`);
   }
 }
-describeTemperature(100);
+describeTemperature(79);
