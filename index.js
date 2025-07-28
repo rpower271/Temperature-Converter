@@ -19,3 +19,5 @@ function describeTemperature(fahrenheit) {
   }
 }
 describeTemperature(79);
+
+prompt("input temp in fahrenheit");
